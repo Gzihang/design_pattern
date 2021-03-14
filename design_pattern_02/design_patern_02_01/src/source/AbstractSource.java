@@ -1,0 +1,1 @@
+package source;public interface AbstractSource{    void ConnectSource();}
